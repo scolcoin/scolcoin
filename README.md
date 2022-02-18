@@ -1,7 +1,7 @@
-## Scolcoin Native cryptocurrency Native (SCOL)
+## Scolcoin cryptocurrency Native (SCOL)
 link https://github.com/scolcoin/scolcoin
 
-## Scolcoin Native cryptocurrency Native (SCOL) OLD
+## Scolcoin cryptocurrency Native (SCOL) OLD
 link https://github.com/scolcoin/scolcoin_old
 
 Whitepaper Scol: https://github.com/scolcoin/Whitepaper/blob/main/White%20Paper%20Scolcoin%20ver%202.0.0.2.pdf
