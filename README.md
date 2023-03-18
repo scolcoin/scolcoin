@@ -1,5 +1,6 @@
 ## Scolcoin Wei Chain 2023
-link https://github.com/scolcoin/Scolcoin-Chain
+- Info: https://github.com/scolcoin/Scolcoin-Chain
+- Node: https://github.com/scolcoin/ScolNetwork
 
 ## Blockchain Scol - Smart Contract
 link https://github.com/scolcoin/Scolcoin-Smart-Chain
