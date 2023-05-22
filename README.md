@@ -2,8 +2,10 @@
 - Info: https://github.com/scolcoin/Scolcoin-Chain
 - Node: https://github.com/scolcoin/ScolNetwork
 
-## Blockchain Scol - Smart Contract 2020
-link https://github.com/scolcoin/Scolcoin-Smart-Chain
+## Scolcoin Token Launch (15 Dic 2021)
+link https://github.com/scolcoin/Token-Scolcoin-SCOL
+
+Whitepaper Token: https://github.com/scolcoin/Token-Scolcoin-SCOL/blob/main/docs/whitepaper-es.md
 
 ## Scolcoin cryptocurrency Native (SCOL) 2018
 link https://github.com/scolcoin/scolcoin
@@ -12,12 +14,6 @@ Whitepaper Scol: https://github.com/scolcoin/Whitepaper/blob/main/White%20Paper%
 
 ## Scolcoin cryptocurrency Native (SCOL) OLD 2017
 link https://github.com/scolcoin/scolcoin_old
-
-## Scolcoin Token Launch (15 Dic 2021)
-link https://github.com/scolcoin/Token-Scolcoin-SCOL
-
-Whitepaper Token: https://github.com/scolcoin/Token-Scolcoin-SCOL/blob/main/docs/whitepaper-es.md
-
 
 Development process
 ===========================
