@@ -10,7 +10,7 @@ link https://github.com/scolcoin/scolcoin
 
 Whitepaper Scol: https://github.com/scolcoin/Whitepaper/blob/main/White%20Paper%20Scolcoin%20ver%202.0.0.2.pdf
 
-## Scolcoin cryptocurrency Native (SCOL) OLD
+## Scolcoin cryptocurrency Native (SCOL) OLD 2017
 link https://github.com/scolcoin/scolcoin_old
 
 ## Scolcoin Token Launch (15 Dic 2021)
