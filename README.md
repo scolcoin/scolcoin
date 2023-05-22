@@ -2,10 +2,10 @@
 - Info: https://github.com/scolcoin/Scolcoin-Chain
 - Node: https://github.com/scolcoin/ScolNetwork
 
-## Blockchain Scol - Smart Contract
+## Blockchain Scol - Smart Contract 2020
 link https://github.com/scolcoin/Scolcoin-Smart-Chain
 
-## Scolcoin cryptocurrency Native (SCOL)
+## Scolcoin cryptocurrency Native (SCOL) 2018
 link https://github.com/scolcoin/scolcoin
 
 Whitepaper Scol: https://github.com/scolcoin/Whitepaper/blob/main/White%20Paper%20Scolcoin%20ver%202.0.0.2.pdf
