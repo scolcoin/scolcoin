@@ -2,12 +2,12 @@
 - Info: https://github.com/scolcoin/Scolcoin-Chain
 - Node: https://github.com/scolcoin/ScolNetwork
 
-## Scolcoin Token Launch (15 Dic 2021)
+## Scolcoin Token Native Launch (8 Mayo 2024) 
 link https://github.com/scolcoin/Token-Scolcoin-SCOL
 
 Whitepaper Token: https://github.com/scolcoin/Token-Scolcoin-SCOL/blob/main/docs/whitepaper-es.md
 
-## Scolcoin cryptocurrency Native (SCOL) 2018
+## Scolcoin cryptocurrency Native (SCOL) 2018 - Network OLD
 link https://github.com/scolcoin/scolcoin
 
 Whitepaper Scol: https://github.com/scolcoin/Whitepaper/blob/main/White%20Paper%20Scolcoin%20ver%202.0.0.2.pdf
